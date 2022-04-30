@@ -13,7 +13,7 @@ Make a note of where the paladins are facing, that will be the direction each pa
 
 The 1 marked player must be in the group opposite of the dark knight, and the 2 marked player must be in the group directly behind him.  Both parties should be on an intercard + 3 notches in the direction you will move (refer to image below).  Swap as necessary.  Both groups will likely need to have a healer in them and ideally will have 4, however a 5/3 is split is survivable as long as they are healed after the first stack damage.
 
-![Starting safe spot](https://cdn.discordapp.com/attachments/965855507447414805/969350150973702144/unknown.png)
+![Starting safe spot](/img/startingsafe.png)
 
 Shortly after arriving at the edge, the gaze attack will go off. Make sure you are looking away from BOTH thordan and the eye.  Failing to do so will apply a damage down and hysteria, almost certainly failing you for the next mechanic and putting your group at risk to dying to the stack damage.
 
@@ -21,7 +21,7 @@ The paladins will begin dashing, leaving behind holy orbs.  Meanwhile, the dark 
 
 The groups will rotate from the starting intercard towards the cardinal marker, about 3 or 4 notches from the starting position. Refer to gif below
 
-![Movement and Ending Safe spot](https://cdn.discordapp.com/attachments/965855507447414805/969350189896855613/f2KI0eQ5wA.gif)
+![Movement and Ending Safe spot](/img/movement%2Bend.gif)
 
 ### Fire & Ice
 After all the holy dashes resolve, all 8 players should loosely spread around the center.  3 casting knights and 1 axe knight will spawn along with 4 fire puddles and 8 towers.  The towers will be split along the edge of the arena and in the middle.
