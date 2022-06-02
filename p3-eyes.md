@@ -54,3 +54,10 @@ Third set of divebombs will hit two more players.  The first set of divebomb pla
 Shortly after the final set both eyes will begin casting Steep in Rage.  Party should be close to killing the Right Eye now and should finish it off before the cast goes off so that only 1 occurs.  Party will then switch targets to the other eye.
 
 When Steep goes off the right eye will revive with a small amount of HP from tethers, but should be low enough that 1 or 2 players should be able to handle it.  If both eyes are dead before the guage fills then you will be sent back in time.
+
+Overall this phase fairly straightforward and is a bit of a breather phase before moving onto the rest of the fight; it should be noted it has a stricter check than nidhogg and is followed up by a burst check in intermission.
+
+### Intermission footnote
+After being sent back in time, you will be at the Charibert burn phase from the door boss, except you will retain your current LB.  Tanks will use LB3 to catch Haucherfant, which will also let him receive only slightly reduced healing.
+
+The first part of the phase plays out the exact same until pure of heart. Shortly after, if Haucherfant survives the Pure of Heart damage then the Spear will become targetable and begin casting Pierce.  Destroying the spear will save Haucherfant and send you to the next new phase.
