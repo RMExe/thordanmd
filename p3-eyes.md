@@ -30,7 +30,9 @@
 Begin phase with party stacked South. Shortly after, two members will 'explode' spreading the devotion buffs.  Missing these buffs or dying will mean you are forfeit from dealing damage for the entire phase.
 
 After obtaining buffs, Party will spread like below:
+
 ![Starting Spread Positions](/img/eyes-spread.png)
+
 Essentially both 'melee' DPS and caster will go west to the Right Eye, and tanks and ranged dps will go east to the left eye.
 
 Tethers will go out.  The inner players (tanks/melee) want to end up with a red tether and the outer players (healers/ranged) want to end up with a blue tether.  If you have the correct tether stay where you are. If you have an incorrect tether, then meet up in the middle. Since you can only pass to opposite tether and you gain a slippery debuff on passing, this will swap everyone to the correct tether.
