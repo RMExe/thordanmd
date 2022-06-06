@@ -45,13 +45,13 @@ After all orbs are soaked, the east party will switch over and move to the west.
 
 ![Mirage Dive Spots](./img/meteor-stream-spread.png)
 
-Two red tether players will be struck. First pair of melees will move to those players to swap tethers, using.  Use rotational/e10orbs/heavensward counting to determine who takes 'clockwise' and 'counterclockwise' tether.  First dive targets should remember if they were the first or second and move into center.
+Two red tether players will be struck. First pair of melees will move to those players to swap tethers, using.  Use rotational/e10orbs/heavensward counting to determine who takes 'clockwise' and 'counterclockwise' tether. This is oriented with true north, towards A, so NW is the first CCW spot and NE is the first CW spot. First dive targets should remember if they were the first or second and move into center.
 
 Second set of divebombs will hit two more players. The other two melee will trade places the same way.
 
 Third set of divebombs will hit two more players.  The first set of divebomb players will take the 'clockwise' and 'counterclockwise' tether matching whichever they were.
 
-Shortly after the final set both eyes will begin casting Steep in Rage.  Party should be close to killing the Right Eye now and should finish it off before the cast goes off so that only 1 occurs.  Party will then switch targets to the other eye.
+Shortly after the fourth and final set both eyes will begin casting Steep in Rage.  Party should be close to killing the Right Eye now and should finish it off before the cast goes off so that only 1 occurs.  Party will then switch targets to the other eye.
 
 When Steep goes off the right eye will revive with a small amount of HP from tethers, but should be low enough that 1 or 2 players should be able to handle it.  If both eyes are dead before the guage fills then you will be sent back in time.
 
